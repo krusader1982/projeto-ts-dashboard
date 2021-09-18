@@ -12,7 +12,10 @@ Este projeto tem como intuito a criação de uma aplicação web, esta aplicaç�
 
 
 ## 3. ESTRUTURA DO PROJETO:
-      
+
+    ![TS-1](https://github.com/krusader1982/projeto-ts-dashboard/blob/master/documentacao/Sprint.png)
+    
+         
 - **Sprint 1**:
    - Apresentação da proposta do projeto
 
@@ -31,4 +34,3 @@ Este projeto tem como intuito a criação de uma aplicação web, esta aplicaç�
    - Integração do Frontend com o Backend
    - Finalização dos Testes 
    
-   ![TS-1](https://github.com/krusader1982/projeto-ts-dashboard/blob/master/documentacao/Sprint.png)
