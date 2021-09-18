@@ -31,3 +31,4 @@ Este projeto tem como intuito a criação de uma aplicação web, esta aplicaç�
    - Integração do Frontend com o Backend
    - Finalização dos Testes 
    
+   ![TS-1](https://github.com/krusader1982/projeto-ts-dashboard/blob/master/documentacao/Sprint.png)
