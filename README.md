@@ -4,7 +4,7 @@
 
 - Samuel Xavier: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-dias-xavier-2984a0106/)](https://www.linkedin.com/in/samuel-dias-xavier-2984a0106/) | [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krusader.1982@gmail.com)](mailto:krusader.1982@gmail.com) | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/krusader1982)](https://github.com/krusader1982)
 
-- Greice Castilho: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=greicecfarma@gmail.com)](greicecfarma@gmail.com) | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/GreiceCastilho)](https://https://github.com/GreiceCastilho)
+- Greice Castilho: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=greicecfarma@gmail.com)](greicecfarma@gmail.com) | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/GreiceCastilho)](https://github.com/GreiceCastilho)
 
 ## 2. OVERVIEW
 
