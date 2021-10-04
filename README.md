@@ -14,17 +14,17 @@ Este projeto tem como intuito a criação de uma aplicação web, esta aplicaç�
 
  ![TS-1](https://github.com/krusader1982/projeto-ts-dashboard/blob/master/documentacao/Sprint.png)
 
-- **Sprint 1**:
+- ✅ **Sprint 1**:
   - Apresentação da proposta do projeto
 
-- **Sprint 2**:
+- ☑️ **Sprint 2**:
   - Implementação do Frontend
   - Realização de Testes
 
-- **Sprint 3**:
+- 🚩 **Sprint 3**:
   - Implementação do Backend
   - Realização de Testes
 
-- **Sprint 4**:
+- 🚩 **Sprint 4**:
   - Integração do Frontend com o Backend
   - Finalização dos Testes
