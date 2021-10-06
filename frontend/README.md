@@ -8,6 +8,11 @@ Você precisará do React.js e o yarn instalado em seu sistema.
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/krusader1982/projeto-ts-dashboard/tree/master/frontend)
 
+### Navegar para o diretório frontend
+```
+cd frontend
+```
+
 ### Instalar dependências
 ```
 yarn install
