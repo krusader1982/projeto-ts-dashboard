@@ -18,7 +18,7 @@ Este projeto tem como intuito a criação de uma aplicação web, esta aplicaç�
   - Apresentação da proposta do projeto
 
 - ☑️ **Sprint 2**:
-  - Implementação do Frontend
+  - Implementação do [Frontend](https://github.com/krusader1982/projeto-ts-dashboard/tree/master/frontend)
   - Realização de Testes
 
 - 🚩 **Sprint 3**:
