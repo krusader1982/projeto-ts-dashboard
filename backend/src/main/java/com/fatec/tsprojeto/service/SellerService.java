@@ -5,6 +5,7 @@ import java.util.stream.Collectors;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import com.fatec.tsprojeto.dto.SellerDTO;
 import com.fatec.tsprojeto.entities.Seller;
@@ -20,4 +21,19 @@ public class SellerService {
 		List<Seller> result = repository.findAll();
 		return result.stream().map(x -> new SellerDTO(x)).collect(Collectors.toList());
 	}
+
+	@Transactional
+	public  Seller cadastrarSeller(String name) {
+		Seller sel = new Seller();
+		sel.setName(name);
+		repository.save(sel);
+		return sel;
+		
+	}
+	
+	public List<SellerDTO> findByName(){
+		List<Seller> result = repository.findByName(null);
+		return result.stream().map(x -> new SellerDTO(x)).collect(Collectors.toList());
+	}
+	
 }
