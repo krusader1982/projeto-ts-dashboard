@@ -27,3 +27,4 @@ Este projeto tem como intuito a criação de uma aplicação web, esta aplicaç�
 - 🚩 **Sprint 4**:
   - Integração do Frontend com o Backend
   - Implementação dos Testes
+  - Finalização do Projeto
