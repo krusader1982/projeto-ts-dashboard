@@ -17,15 +17,13 @@ Este projeto tem como intuito a criação de uma aplicação web, esta aplicaç�
 - ✅ **Sprint 1**:
   - Apresentação da proposta do projeto
 
-- ☑️ **Sprint 2**:
+- ✅ **Sprint 2**:
   - Implementação do [Frontend](https://github.com/krusader1982/projeto-ts-dashboard/tree/master/frontend)
   - Visualizar o Dashboard no [Netlify](https://projeto-ts-dashboard.netlify.app)
-  - Realização de Testes
-
-- 🚩 **Sprint 3**:
-  - Implementação do Backend
-  - Realização de Testes
+  
+- ✅ **Sprint 3**:
+  - Implementação do Backend no Heroku
 
 - 🚩 **Sprint 4**:
   - Integração do Frontend com o Backend
-  - Finalização dos Testes
+  - Implementação dos Testes
