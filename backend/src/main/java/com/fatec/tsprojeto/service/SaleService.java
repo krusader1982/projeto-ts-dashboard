@@ -1,6 +1,7 @@
 package com.fatec.tsprojeto.service;
 
 
+import java.time.LocalDate;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,6 +14,7 @@ import com.fatec.tsprojeto.dto.SaleDTO;
 import com.fatec.tsprojeto.dto.SaleSuccessDTO;
 import com.fatec.tsprojeto.dto.SaleSumDTO;
 import com.fatec.tsprojeto.entities.Sale;
+import com.fatec.tsprojeto.entities.Seller;
 import com.fatec.tsprojeto.repositories.SaleRepository;
 import com.fatec.tsprojeto.repositories.SellerRepository;
 
@@ -42,4 +44,16 @@ public class SaleService {
 		return repository.successGroupedBySeller();
 	}
 	
+	@Transactional
+	public Sale cadastrarSale(Long id, Integer visited, Integer deals, Double amount, LocalDate date, Seller seller){
+		Sale sal = new Sale();
+		sal.setId(id);
+		sal.setVisited(visited);
+		sal.setDeals(deals);
+		sal.setAmount(amount);
+		sal.setDate(date);
+		sal.setSeller(seller);
+		repository.save(sal);
+		return sal;
+	}
 }
